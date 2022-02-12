@@ -14,4 +14,5 @@
 - 🌸 Contact: 
   - <a href="https://www.linkedin.com/in/noppakovat/">LinkedIn</a>
   - <a href="https://discordhub.com/profile/123627323336425478">Discord</a>
+  - <a href="https://kritacism.carrd.co">Carrd</a> (Art)
 </small>
