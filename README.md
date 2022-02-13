@@ -1,18 +1,14 @@
-<b>(Subject to change in the future)</b>
-<small>
-- 🌼 Hi, I’m Narinee (@Noppakovat), but I prefer to go by Rita
-- 💐 I’m looking to collaborate on whatever is thrown at me that I can somewhat navigate with or without help
-- 🌻 I’m interested in:
-  - Understanding how & why things operate
-  - Working in groups
-  - Obsessing over code that doesn't work as intended
-  - Fixing aforementioned code, so that it does work as intended
-- 🌱 I’m currently learning:
-  - About the limitations I have with certain languages
-    - Typically speaking, my issues are with terminology
-  - How to improve personally & in group settings
-- 🌸 Contact: 
-  - <a href="https://www.linkedin.com/in/noppakovat/">LinkedIn</a>
-  - <a href="https://discordhub.com/profile/123627323336425478">Discord</a>
-  - <a href="https://kritacism.carrd.co">Carrd</a> (Art)
-</small>
+<img align="left" src="https://user-images.githubusercontent.com/99511890/153737229-5d0beb80-4261-4a1d-aae6-2904a1c5ba98.png" width="400"></img>
+## 🌼 Hi, I’m Narinee (@Noppakovat). I do prefer "Rita"~
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/noppakovat/)](https://www.linkedin.com/in/noppakovat/)
+
+🌻 Interested In:
+
+	1. Understanding how & why things operate
+ 	2. Obsessing over code that doesn't work as intended
+ 	3. Fixing aforementioned code, so that it does work as intended
+	
+🌱 Currently Learning:
+
+	1. About the limitations I have with certain languages
+ 	2. How to improve personally & in group settings
