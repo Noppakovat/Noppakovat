@@ -5,7 +5,8 @@
 	🌙 ► Interested In ----------
 	➣ How & why things operate
  	➣ Groupwork/collaborations
-	➣ Prettyprint
+	➣ Organization
+		➣ Prettyprint
 	
 	⭐ ► Currently Learning -----
 	➣ About my limitations
