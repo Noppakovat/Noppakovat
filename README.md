@@ -3,17 +3,17 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/noppakovat/)](https://www.linkedin.com/in/noppakovat/)
 
 	🌙 ► Interested In ----------
-	/&9734; How & why things operate
- 	➣ Groupwork/collaborations
-	➣ Organization
-		➣ Prettyprint
+	☆ How & why things operate
+ 	★ Groupwork/collaborations
+	☆ Organization
+		⭒ Prettyprint
 	
 	⭐ ► Currently Learning -----
-	➣ About my limitations
-		➣ e.g. languages
- 	➣ How to improve personally 
+	☆ About my limitations
+		⭒ e.g. languages
+ 	☆ How to improve personally 
 	
 ✨ For more of my art, see [here](https://www.kritacism.carrd.co/). 🙂 // 
 <hr></hr>
 
-###### *Credits to https://github.com/Ileriayo/markdown-badges for the badge(s)!* ######
+###### *Credits to https://github.com/Ileriayo/markdown-badges for the badge(s)!* 🌠 ######
