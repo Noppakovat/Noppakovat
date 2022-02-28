@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/noppakovat/)](https://www.linkedin.com/in/noppakovat/)
 
 	🌙 ► Interested In ----------
-	➣ How & why things operate
+	/&9734; How & why things operate
  	➣ Groupwork/collaborations
 	➣ Organization
 		➣ Prettyprint
