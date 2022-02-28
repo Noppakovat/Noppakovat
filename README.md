@@ -16,4 +16,4 @@
 ✨ For more of my art, see [here](https://www.kritacism.carrd.co/). 🙂 // 
 <hr></hr>
 
-###### *Credits to https://github.com/Ileriayo/markdown-badges for the badge(s)!* 🌠 ######
+###### 🌠 *Credits to https://github.com/Ileriayo/markdown-badges for the badge(s)!* 🌠 ######
